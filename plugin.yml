@@ -1,0 +1,6 @@
+name: building_tool
+version: 1.0
+api-version: 1.21
+main: example.build.tool.building_tool
+description: My first Minecraft plugin
+author: author
